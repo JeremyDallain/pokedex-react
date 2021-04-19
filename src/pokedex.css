@@ -1,0 +1,77 @@
+/* COULEURS BOUTONS DE TYPES */
+
+.type-fire {
+   background-color: rgb(226, 39, 6);
+   color: white;
+}
+.type-water {
+   background-color: rgb(24, 130, 156);
+   color: white;
+}
+.type-grass {
+   background-color: rgb(160, 224, 100);
+   color: black;
+}
+.type-poison {
+   background-color: rgb(168, 86, 161);
+   color: white;
+}
+.type-flying {
+   background-color: rgb(146, 142, 141);
+   color: white;
+}
+.type-bug {
+   background-color: rgb(70, 99, 23);
+   color: white;
+}
+.type-normal {
+   background-color: rgb(80, 77, 77);
+   color: white;
+}
+.type-ground {
+   background-color: rgb(128, 108, 56);
+   color: white;
+}
+.type-fairy {
+   background-color: rgb(238, 138, 188);
+   color: black;
+}
+.type-electric {
+   background-color: rgb(228, 217, 63);
+   color: black;
+}
+.type-fighting {
+   background-color: rgb(153, 69, 0);
+   color: white;
+}
+.type-psychic {
+   background-color: rgb(192, 59, 137);
+   color: white;
+}
+.type-rock {
+   background-color: rgb(82, 64, 27);
+   color: white;
+}
+.type-steel {
+   background-color: rgb(151, 150, 150);
+   color: black;
+}
+.type-ice {
+   background-color: rgb(121, 220, 245);
+   color: black;
+}
+.type-ghost {
+   background-color: rgb(95, 29, 156);
+   color: white;
+}
+.type-dragon {
+   background-color: rgb(219, 112, 11);
+   color: white;
+}
+.type-default {
+   background-color: rgb(255, 255, 255);
+   color: rgb(0, 0, 0);
+}
+
+/* FIN  -  COULEURS BOUTONS DE TYPES */
+
