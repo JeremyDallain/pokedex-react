@@ -31,6 +31,7 @@ const Pokedex = () => {
   return (
       <Fragment>
         <h1 className="text-center">Pokédex</h1>
+          <p className="text-center">© 1995–2021 Pokémon</p>
 
         <br/>
 
