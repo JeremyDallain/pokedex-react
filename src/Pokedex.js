@@ -32,7 +32,7 @@ const Pokedex = () => {
       <Fragment>
         <h1 className="text-center">Pokédex</h1>
           <p className="text-center">© 1995–2021 Pokémon</p>
-        <p className="text-center"><a target="_blank" href="https://github.com/JeremyDallain/pokedex-react">Github</a></p>
+        <p className="text-center"><a title="projet github" target="_blank" href="https://github.com/JeremyDallain/pokedex-react">Github</a></p>
 
         <br/>
 
