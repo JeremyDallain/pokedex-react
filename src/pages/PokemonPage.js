@@ -104,7 +104,7 @@ const PokemonPage = ({match}) => {
             <div className="col-2"></div>
          </div>
          <div className="text-center">
-            <button className="m-2 btn btn-secondary left-align" onClick={() => goToPokedexList()}>Retour</button>
+            <button className="m-2 btn btn-warning font-weight-bold left-align" onClick={() => goToPokedexList()}>Retour</button>
          </div>     
       </div>
    )

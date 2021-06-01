@@ -10,6 +10,7 @@ import './pokedex.css';
 //components
 import PokedexList from './pages/PokedexList';
 import PokedexCards from './pages/PokedexCards';
+import formatId from "./helpers/format-id";
 
 const Pokedex = () => {
 
@@ -30,7 +31,8 @@ const Pokedex = () => {
 
   return (
       <Fragment>
-        <h1 className="text-center">Pokédex</h1>
+
+
           <p className="text-center">© 1995–2021 Pokémon</p>
         <p className="text-center"><a title="projet github" target="_blank" href="https://github.com/JeremyDallain/pokedex-react">Github</a></p>
 
